@@ -24,7 +24,7 @@
 -[ ] Probar persistencia de datos
 
 ## Publicación
-
+ 
 -[ ] Preparar versión v1.0
 -[ ] Actualizar documentación
 -[ ] Crear release
